@@ -1,0 +1,108 @@
+#login {
+  background-image: url('../imgs/logo.png');
+  height: 100%;
+  background-attachment: fixed;
+}
+
+nav {
+  background: linear-gradient(to right, #8ce6ff, white);
+}
+
+#navbar {
+  font-weight: bold;
+}
+
+body.shop, body.contact {
+    background-image: url('../imgs/logo.png');
+    height: 100%;
+    background-attachment: fixed;
+}
+
+#text {
+  font-family: 'Dosis', sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color: black;
+}
+
+.parallax-container {
+  width: 100%;
+}
+
+.parallax-container {
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+
+}
+
+.parallax-container .section {
+  width: 100%;
+}
+
+section {
+  background-color: transparent;
+}
+
+.header.center {
+  color: #8ce6ff;
+  font-weight: bold;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+#subtitle {
+  color: #8ce6ff;
+  font-weight: bold;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+  }
+
+#subtitle_shop {
+  color: #8ce6ff;
+  font-weight: bold;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+  margin-bottom: 10vh;
+}
+
+#cards {
+  margin-top: 10vh;
+}
+
+.card_content, .card_action {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+#inputtext {
+  font-size: 2em;
+  color: #8ce6ff;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+  margin-bottom: 10vh;
+}
+
+footer {
+  padding-top: 5em;
+  background-color: #9ee9ff;
+}
+
+#blades {
+  margin-top: 40vh;
+}
