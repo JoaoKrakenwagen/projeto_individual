@@ -27,7 +27,7 @@
                 <li><a id="text" href="schnee.html">Home</a></li>
                 <li><a id="text" href="shop.html">Products</a></li>
                 <li><a id="text" href="{!! asset('login')!!}">Login</a></li>
-                <li><a id="text" href="contact.html">Contact</a></li>
+                <li><a id="text" href="contact-us">Contact</a></li>
               </ul>
             </div>
           </nav>
