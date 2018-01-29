@@ -33,7 +33,7 @@
     </div>
 
     <div class="container">
-    <h1 id="contact-title">Contact US Form</h1>
+    <h1 id="contact-title">Contact US</h1>
 
     @if(Session::has('success'))
        <div class="alert alert-success">
