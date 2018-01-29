@@ -26,6 +26,7 @@
               <ul class="right hide-on-med-and-down">
                 <li><a id="text" href="schnee.html">Home
                 <li><a id="text" href="shop.html">Products</a></li>
+                <li><a id="text" href="{!! asset('login')!!}">Login</a></li>
                 <li><a id="text" href="contact.html">Contact</a></li>
               </ul>
             </div>

@@ -24,8 +24,9 @@
         <div class="nav-wrapper container">
           <a id="logo" href="#" class="brand-logo"><img src="{!! asset('imgs/Untitled.png')!!}"></a>
           <ul class="right hide-on-med-and-down">
-            <li><a id="text" href="{!! asset('schnee.html')!!}">Home
+            <li><a id="text" href="{!! asset('schnee.html')!!}">Home</a></li>
             <li><a id="text" href="{!! asset('shop.html')!!}">Products</a></li>
+            <li><a id="text" href="{!! asset('login')!!}">Login</a></li>
             <li><a id="text" href="{!! asset('contact.html')!!}">Contact</a></li>
           </ul>
         </div>

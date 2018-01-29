@@ -17,7 +17,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 
-<body class="home">
+<body id="login" class="home">
   <div id="navbar" class="container">
       <div class="row">
           <div class="col-md-8 col-md-offset-2">
@@ -91,7 +91,7 @@
           </div>
       </div>
   </div>
-  <footer>
+  <footer id="blades">
     <div class ="container">
       <div class="row">
         <div class="col s4 m4 l4 black-text">
